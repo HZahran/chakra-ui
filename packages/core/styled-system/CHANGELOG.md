@@ -1,5 +1,13 @@
 # Change Log
 
+## 2.4.0
+
+### Minor Changes
+
+- [`1a4dad7a4`](https://github.com/chakra-ui/chakra-ui/commit/1a4dad7a4f15e24e0f529b8f8277346d0399c3fc)
+  Thanks [@segunadebayo](https://github.com/segunadebayo)! - Add support for
+  `textIndent` style prop
+
 ## 2.3.5
 
 ### Patch Changes

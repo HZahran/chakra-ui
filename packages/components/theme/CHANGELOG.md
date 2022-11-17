@@ -1,5 +1,16 @@
 # Change Log
 
+## 2.2.2
+
+### Patch Changes
+
+- [`bf7704112`](https://github.com/chakra-ui/chakra-ui/commit/bf7704112ebb2aba675084706c8364a755ad10e3)
+  Thanks [@segunadebayo](https://github.com/segunadebayo)! - Fixed console
+  warning with `Tabs` when using the enclosed variant.
+
+- Updated dependencies []:
+  - @chakra-ui/theme-tools@2.0.13
+
 ## 2.2.1
 
 ### Patch Changes

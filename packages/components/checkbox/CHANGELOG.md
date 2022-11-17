@@ -1,5 +1,13 @@
 # Change Log
 
+## 2.2.5
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @chakra-ui/form-control@2.0.13
+  - @chakra-ui/visually-hidden@2.0.13
+
 ## 2.2.4
 
 ### Patch Changes
